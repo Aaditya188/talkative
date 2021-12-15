@@ -1,14 +1,13 @@
 {
-  "name": "chatcord",
-  "version": "1.0.0",
+  "name": "talkative",
+  "version": "2.0.0",
   "description": "Realtime chat app with rooms",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Brad Traversy",
-  "license": "MIT",
+  "author": "LordGeeks",
   "dependencies": {
     "express": "^4.17.1",
     "moment": "^2.24.0",
